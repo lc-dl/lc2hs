@@ -9,3 +9,4 @@ LC → HS is a shortcut to add LiveContainer apps to your home screen effortless
 5. Run the shortcut
 
 ### LC-DL Integration
+If you use LC-DL to install apps to LiveContainer and have LC → HS setup, you will be asked automatically if you want to add newly installed apps to your homescreen.
